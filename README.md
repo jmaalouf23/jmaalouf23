@@ -7,7 +7,7 @@ I am a 5th year PhD student in the chemical engineering department at MIT.  I wo
 - ⛽   Decarbonization of materials like fuels and plastics
 -  ⚡   Electrochemistry
 - 💻   Machine learning for molecular property prediction
-- ⚛️   Pursuing a career in computational chemistry
+- ⚛️   Pursuing a career in computational chemistry and clean energy
 
 ### Links <br>
 
